@@ -1,0 +1,208 @@
+feature,mean_shap
+cat__overtime_No,1.9421232
+num__job_satisfaction_score,0.9407261
+num__engagement_score,0.7687848
+num__work_life_balance_score,0.75555307
+num__num_companies_before,0.7190873
+num__stock_options,0.70902944
+cat__marital_status_Married,0.5667424
+num__num_promotions,0.55726016
+num__tenure_years,0.5321078
+num__nine_box_talent_readiness,0.424662
+num__years_since_last_promotion,0.40492848
+cat__overtime_Yes,0.40063354
+num__monthly_hours_worked,0.2874258
+cat__performance_review_Needs Improvement,0.24407798
+num__num_direct_reports,0.1657109
+num__distance_from_home_miles,0.1555575
+num__age,0.1362239
+num__training_hours_last_year,0.124542594
+cat__performance_review_Below Expectations,0.12452401
+num__last_raise_percentage,0.12078505
+num__salary,0.113273494
+num__bonus_percentage,0.111823365
+cat__performance_review_Meets Expectations,0.10063321
+num__relationship_satisfaction,0.09207837
+num__learning_score,0.082793325
+num__years_at_company,0.0809683
+num__team_size,0.07253069
+num__healthcare_satisfaction,0.06686789
+num__commute_time_minutes,0.06106823
+num__remote_work_percentage,0.03284878
+cat__state_CA,0.03186836
+cat__marital_status_Single,0.029356984
+cat__performance_review_Exceeds Expectations,0.024733469
+cat__job_level_IC5,0.022920687
+cat__marital_status_Divorced,0.020644056
+cat__performance_review_Outstanding,0.020276314
+cat__department_Accounts Payable,0.020205265
+num__is_manager,0.013966459
+cat__state_LA,0.012291538
+cat__department_Software Engineering,0.010942185
+num__has_successor,0.010907327
+cat__state_WA,0.010445053
+cat__business_unit_Legal & Compliance,0.0101164775
+cat__state_OH,0.009911518
+cat__state_OR,0.009762786
+cat__gender_Female,0.0095422035
+cat__state_MI,0.0086894855
+cat__department_Customer Onboarding,0.008565438
+cat__state_CT,0.0084435325
+cat__department_Procurement,0.008280023
+cat__business_unit_Supply Chain,0.008256015
+cat__state_MD,0.008117803
+cat__state_CO,0.0077561275
+cat__business_unit_Customer Success,0.0074031823
+cat__department_Logistics,0.007374613
+cat__division_Logistics,0.0071415924
+cat__department_Legal Affairs,0.006878508
+cat__state_KY,0.00684702
+cat__business_unit_Sales & Marketing,0.006834796
+cat__job_level_M4,0.006779553
+cat__business_unit_Finance,0.006434504
+cat__job_level_IC4,0.006299324
+cat__department_HR Operations,0.006044738
+cat__department_UX Design,0.0060201734
+cat__division_Strategic Initiatives,0.0058939424
+cat__state_MN,0.0058765584
+cat__business_unit_Research & Development,0.0058010416
+cat__business_unit_Operations,0.0056871395
+cat__department_Talent Development,0.005673626
+cat__state_NC,0.005562838
+cat__department_Field Sales,0.005318984
+cat__department_Data Science,0.0052620396
+cat__job_level_M1,0.004948859
+cat__state_TX,0.004922353
+cat__gender_Non-Binary,0.0049039493
+cat__business_unit_Technology,0.004724454
+cat__state_OK,0.0046981927
+cat__cost_center_name_Supply Chain – Logistics,0.0046660723
+cat__job_level_IC2,0.004500109
+cat__department_Financial Planning,0.0043930216
+cat__division_Applied Research,0.0043610525
+cat__gender_Male,0.0042829975
+cat__division_Accounting,0.0042302916
+cat__division_Talent Acquisition,0.0042191413
+cat__job_level_IC1,0.0041486835
+cat__division_Contracts,0.004124968
+cat__state_IL,0.0040691644
+cat__division_Data & Analytics,0.0040639443
+cat__job_level_M3,0.004028405
+cat__state_IN,0.0037826677
+cat__state_WI,0.00369792
+cat__state_GA,0.0036696955
+cat__business_unit_Corporate Strategy,0.0036192732
+cat__department_Accounts Receivable,0.0035737164
+cat__division_Brand,0.0035294374
+cat__division_Procurement,0.0034303917
+cat__division_SMB Sales,0.0034240491
+cat__division_Investor Relations,0.0033268027
+cat__job_level_IC3,0.0032358833
+cat__department_Corporate Communications,0.003135377
+cat__business_unit_Human Resources,0.0031104991
+cat__division_Partnerships,0.0030091892
+cat__department_Technical Support,0.0029419789
+cat__division_Privacy,0.00293727
+cat__division_FP&A,0.0028963536
+cat__department_Sales Operations,0.0028771316
+cat__state_NY,0.0026482616
+cat__state_VA,0.0025906002
+cat__department_Payroll,0.0025804653
+cat__job_level_VP,0.002470302
+cat__department_Strategic Planning,0.0024686574
+cat__division_Corporate Legal,0.002296161
+cat__cost_center_name_Legal & Compliance – Contracts,0.0022028238
+cat__state_NV,0.0021721665
+cat__department_Network Infrastructure,0.0021053301
+cat__job_level_M2,0.0020975126
+cat__department_Product Management,0.002084517
+cat__state_AZ,0.0019872969
+cat__state_SC,0.0019655095
+cat__department_R&D Engineering,0.0018817541
+cat__department_Benefits,0.0018770894
+cat__state_TN,0.0017910647
+cat__cost_center_name_Sales & Marketing – SMB Sales,0.0016905288
+cat__state_AL,0.0016742841
+cat__cost_center_name_Operations – Procurement,0.0016344206
+cat__department_DevOps,0.0016252697
+cat__marital_status_Widowed,0.0016185532
+cat__division_Product Research,0.0016012489
+cat__state_MO,0.0015996603
+cat__cost_center_name_Legal & Compliance – Privacy,0.001500061
+cat__cost_center_name_Finance – Accounting,0.0014954603
+cat__department_Content Marketing,0.0014342027
+cat__division_Treasury,0.0014329657
+cat__division_Innovation Lab,0.0014102561
+cat__division_Vendor Management,0.0013943912
+cat__department_Performance Marketing,0.001393604
+cat__department_Quality Control,0.0012721653
+cat__department_IT Support,0.0012700477
+cat__division_Product,0.0012458129
+cat__division_L&D,0.001212122
+cat__cost_center_name_Finance – Treasury,0.0011777197
+cat__division_Quality Assurance,0.0011765499
+cat__cost_center_name_Corporate Strategy – Investor Relations,0.0011457831
+cat__cost_center_name_Research & Development – Innovation Lab,0.0011333906
+cat__division_Account Management,0.0011317754
+cat__cost_center_name_Human Resources – Total Rewards,0.0011199532
+cat__cost_center_name_Customer Success – Support Tier 2,0.0011079744
+cat__division_Total Rewards,0.0011037699
+cat__division_Facilities,0.0010695916
+cat__state_PA,0.0010302273
+cat__division_M&A,0.0010169067
+cat__cost_center_name_Technology – Data & Analytics,0.0010043853
+cat__division_Cybersecurity,0.000996042
+cat__division_HR Ops,0.0009422572
+cat__cost_center_name_Sales & Marketing – Brand,0.0008829078
+cat__state_FL,0.0008668256
+cat__division_HR Business Partners,0.0007862142
+cat__department_Account Management,0.00078070007
+cat__division_Distribution,0.0007418697
+cat__division_Tax,0.0007387956
+cat__department_Inside Sales,0.0007328661
+cat__division_Internal Audit,0.00065953686
+cat__cost_center_name_Research & Development – Applied Research,0.000656278
+cat__division_Digital Marketing,0.0006471129
+cat__cost_center_name_Customer Success – Account Management,0.00060560566
+cat__job_level_C-Suite,0.0005985442
+cat__cost_center_name_Human Resources – HR Ops,0.0005593825
+cat__cost_center_name_Legal & Compliance – Regulatory,0.00044906605
+cat__division_Inventory,0.00044472038
+cat__division_Regulatory,0.00041557508
+cat__cost_center_name_Technology – Cybersecurity,0.00040853556
+cat__department_Compliance,0.00035860873
+cat__cost_center_name_Human Resources – HR Business Partners,0.00034664525
+cat__cost_center_name_Customer Success – Onboarding,0.00031181145
+cat__cost_center_name_Sales & Marketing – Partnerships,0.00029300916
+cat__gender_Prefer Not to Say,0.0002830468
+cat__cost_center_name_Operations – Business Operations,0.00026129087
+cat__cost_center_name_Corporate Strategy – M&A,0.00021069423
+cat__division_Support Tier 1,0.00020707847
+cat__cost_center_name_Sales & Marketing – Enterprise Sales,0.00019962883
+cat__cost_center_name_Technology – Product,0.00017748971
+cat__cost_center_name_Technology – Infrastructure,0.00016874119
+cat__division_Enterprise Sales,0.00014983934
+cat__division_Business Operations,0.00014624417
+cat__cost_center_name_Sales & Marketing – Digital Marketing,0.00014088761
+cat__cost_center_name_Finance – Internal Audit,0.00013578612
+cat__division_Engineering,0.00012771688
+cat__cost_center_name_Operations – Quality Assurance,0.00012278893
+cat__division_Infrastructure,0.00011346101
+cat__state_NJ,9.528297e-05
+cat__division_Support Tier 2,7.607955e-05
+cat__state_MA,0.0
+cat__cost_center_name_Corporate Strategy – Strategic Initiatives,0.0
+cat__cost_center_name_Human Resources – Talent Acquisition,0.0
+cat__cost_center_name_Finance – FP&A,0.0
+cat__cost_center_name_Customer Success – Support Tier 1,0.0
+cat__job_level_Director,0.0
+cat__cost_center_name_Technology – Engineering,0.0
+cat__cost_center_name_Human Resources – L&D,0.0
+cat__cost_center_name_Supply Chain – Vendor Management,0.0
+cat__cost_center_name_Supply Chain – Inventory,0.0
+cat__cost_center_name_Supply Chain – Distribution,0.0
+cat__cost_center_name_Finance – Tax,0.0
+cat__cost_center_name_Operations – Facilities,0.0
+cat__cost_center_name_Legal & Compliance – Corporate Legal,0.0
+cat__division_Onboarding,0.0
+cat__cost_center_name_Research & Development – Product Research,0.0
