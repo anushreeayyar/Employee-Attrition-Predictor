@@ -180,9 +180,9 @@ Adjust sliders → score updates instantly.
 
 ## 👤 Author
 
-Built by **[Your Name]** — HR Tech / People Analytics portfolio project.
+Built by **Anushree Ayyar** — HR Tech / People Analytics portfolio project.
 
-Connect on [LinkedIn](https://linkedin.com/in/YOUR_PROFILE) · [GitHub](https://github.com/YOUR_USERNAME)
+Connect on [LinkedIn](https://linkedin.com/in/anushreeayyar) · [GitHub](https://github.com/anushreeayyar)
 
 ---
 
